@@ -2,3 +2,5 @@ Master message
 Ronald message
 
 This is gonna be a largest paragraph for Master branch
+
+And this is gonna be another one for Ronald's branch
